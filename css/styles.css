@@ -141,4 +141,13 @@ padding-bottom: 3%;
         position: static;
         transform: rotate(0);
     }
+    
+}
+@media (max-width:412px){
+    .nav-link{
+        font-size: 1.9rem;
+        font-weight: 600;
+        font-family: "Montserrat";
+        
+    }
 }
